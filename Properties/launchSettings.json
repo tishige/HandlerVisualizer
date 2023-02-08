@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HandlerVisualizer": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\tishige\\OneDrive\\ドキュメント\\Programming\\_temp_doc\\AcdAvailableAgent.XML"
+    }
+  }
+}
